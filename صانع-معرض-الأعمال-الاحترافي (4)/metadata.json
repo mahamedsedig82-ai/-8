@@ -1,0 +1,6 @@
+{
+  "name": "صانع معرض الأعمال الاحترافي",
+  "description": "منصة متكاملة لإنشاء وإدارة معرض أعمال احترافي متعدد الألوان والتصاميم مع لوحة تحكم إدارية شاملة دون الحاجة لكتابة كود.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
